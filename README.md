@@ -4,6 +4,8 @@ La plataforma permite a los usuarios crear una cuenta, actualizar su informació
 Cuando los usuarios alcanzan la cantidad necesaria de puntos, pueden canjearlos fácilmente para disfrutar del servicio de bicicletas. Por otro lado, el sistema cuenta con un módulo de administración, diseñado para que los encargados puedan gestionar los perfiles de los usuarios y supervisar la actividad de reciclaje.
 Este proyecto combina el cuidado del medio ambiente con la promoción de la movilidad sostenible, motivando a las personas a reciclar a cambio de un beneficio práctico y accesible.
 
-#Foto del menú de LUMSU
-![Uploading image.png…]()
+# Foto del menú de LUMSU
+![image](https://github.com/user-attachments/assets/079f7b66-cafe-47f8-b194-31dec332f58f)
+
+
 
