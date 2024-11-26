@@ -18,12 +18,12 @@ The Recycling Incentive for Bike Rental project aims to encourage people to recy
 # Créditos
 {Español}
 <br>
-Este proyecto fue realizado el semestre 2021-2 de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:
+Este proyecto fue desarrollado durante el semestre 2021-2 de mi carrera universitaria. Participé activamente en la lógica, la estructuración y la programación del sistema, trabajando en colaboración con mi equipo.
 <br>
 <br>
 {English}
 <br>
-This project was carried out in the semester 2021-2 of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:
+This project was developed during the 2021-2 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
 <br>
 <br>
 -Xavier Andrés De La Hoz Salas<br>
