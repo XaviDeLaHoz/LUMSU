@@ -1,29 +1,32 @@
-# LUMSU
--Español:
-El Proyecto de Incentivo al Reciclaje para el Alquiler de Bicicletas tiene como objetivo fomentar el reciclaje de botellas plásticas ofreciendo una recompensa tangible: el uso de bicicletas. Mediante una plataforma digital, los participantes pueden registrar las botellas que reciclan y acumular puntos que luego pueden intercambiar por tiempo de alquiler de bicicletas.
-La plataforma permite a los usuarios crear una cuenta, actualizar su información personal, cambiar su contraseña y revisar su avance en la acumulación de puntos. Además, incluye un Ranking de Recicladores Destacados, que promueve una sana competencia entre los participantes al reconocer a los más comprometidos con la causa.
-Cuando los usuarios alcanzan la cantidad necesaria de puntos, pueden canjearlos fácilmente para disfrutar del servicio de bicicletas. Por otro lado, el sistema cuenta con un módulo de administración, diseñado para que los encargados puedan gestionar los perfiles de los usuarios y supervisar la actividad de reciclaje.
-Este proyecto combina el cuidado del medio ambiente con la promoción de la movilidad sostenible, motivando a las personas a reciclar a cambio de un beneficio práctico y accesible.
+# Proyecto-LUMSU
+{Español}
+<br>
+(NO DOCUMENTACIÓN)<br>
+El proyecto de Incentivo al Reciclaje para el Alquiler de Bicicletas busca motivar a las personas a reciclar botellas plásticas. A través de una plataforma, los usuarios pueden registrar las botellas recicladas, acumulando puntos que luego pueden canjear por el alquiler de bicicletas.<br>
+Los usuarios pueden registrarse, actualizar sus datos, cambiar su contraseña y consultar su progreso en la plataforma. Además, hay un Ranking que destaca a los recicladores más activos, fomentando la competencia amigable.Una vez que un usuario acumula suficientes puntos, puede redimirlos en la sección correspondiente para disfrutar del servicio de bicicletas.<br>
+El sistema también incluye un área para administradores, encargada de gestionar usuarios y monitorear el reciclaje. De esta manera, el proyecto une la conciencia ambiental con la movilidad sostenible, incentivando el reciclaje a cambio de un beneficio concreto.
+<br>
+<br>
+{English}
+<br>
+(NO DOCUMENTATION)<br>
+The Recycling Incentive for Bike Rental project aims to encourage people to recycle plastic bottles. Through a platform, users can register the bottles they have recycled, accumulating points that they can later redeem for bike rentals.<br> Users can register, update their information, change their password, and track their progress on the platform. There is also a Ranking that highlights the most active recyclers, fostering friendly competition. Once a user has accumulated enough points, they can redeem them in the corresponding section to enjoy the bike rental service.<br> The system also includes an administrator section, responsible for managing users and monitoring recycling activity. In this way, the project combines environmental awareness with sustainable mobility, encouraging recycling in exchange for a tangible benefit.
 
--Inglés: 
-The Recycling Incentive for Bike Rental Project aims to encourage people to recycle plastic bottles by offering a tangible reward: access to bike rentals. Through a digital platform, participants can record the bottles they recycle and earn points, which can later be redeemed for bike rental time.
-The platform allows users to create an account, update their personal information, change their password, and track their progress in accumulating points. It also features a Top Recyclers Ranking, which fosters friendly competition by highlighting the most dedicated participants.
-Once users accumulate enough points, they can easily redeem them to enjoy the bike rental service. Additionally, the system includes an administration module, enabling managers to oversee user profiles and monitor recycling activities.
-This project combines environmental awareness with the promotion of sustainable mobility, motivating individuals to recycle in exchange for a practical and accessible benefit.
-
-# Foto del menú de LUMSU
-![image](https://github.com/user-attachments/assets/079f7b66-cafe-47f8-b194-31dec332f58f)
+# Fotos
+![image](https://github.com/user-attachments/assets/f7986672-5781-4a97-a838-d5934507f9e3)
 
 # Créditos
--Espanoñ:
-Este proyecto fue desarrollado durante el semestre 2021-2 de mi carrera universitaria. Participé activamente en la lógica, la estructuración y la programación del sistema, trabajando en colaboración con mi equipo.
-
--Inglés:
-This project was developed during the 2021-2 semester of my university studies. I actively contributed to the logic, structure, and programming of the system, collaborating closely with my team.
-
--Xavier Andrés De La Hoz Salas.
--Enzo Junior De Leon Pineda.
--Jaider Jose Gil Guzman.
--Vanessa Paola Romero Domínguez.
-
-
+{Español}
+<br>
+Este proyecto fue realizado el semestre 2021-2 de mi carrera universitaria. colaboré en su momento en gran parte de la lógica y el código del programa junto con mis compañeros de clases:
+<br>
+<br>
+{English}
+<br>
+This project was carried out in the semester 2021-2 of my university career. At that time, I collaborated significantly on the logic and the code of the program along with my classmates:
+<br>
+<br>
+-Xavier Andrés De La Hoz Salas<br>
+-Enzo Junior De Leon Pineda<br>
+-Vanessa Paola Romero Domínguez<br>
+-Me
