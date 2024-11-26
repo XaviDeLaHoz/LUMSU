@@ -29,4 +29,4 @@ This project was developed during the 2021-2 semester of my university studies. 
 -Xavier Andrés De La Hoz Salas<br>
 -Enzo Junior De Leon Pineda<br>
 -Vanessa Paola Romero Domínguez<br>
--Me
+-Jaider Jose Gil Guzman
